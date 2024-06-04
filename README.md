@@ -1,6 +1,6 @@
 # The WhistlesGoWoo Website
 
-# The Wisdom of Crowds in Sports Prediction 
+## The Wisdom of Crowds in Sports Prediction 
 
 ## Overview
 
